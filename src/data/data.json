@@ -1,0 +1,25 @@
+{
+	"profile":[
+				{
+					"basics":{
+								"name":"vishwa",
+								"role":"Full Stack Developer",
+								"phone":"987654321",
+								"email":"vishwa@gmail.com"
+							},
+					"career":"i' want to expore my entire knowledge to give better O/p or solution"
+				},
+				{
+					"basics":{
+								"name":"Ram ",
+								"role":"Front End Developer",
+								"phone":"9988776655",
+								"email":"Ram@gmail.com"
+							},
+					"career":"i' want to expore my entire knowledge to give better O/p or solution"
+
+   				}
+   				
+
+			]
+}
